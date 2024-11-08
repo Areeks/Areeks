@@ -1,4 +1,4 @@
-[![MasterHead](https://zakorkuj.pl/images/java-vs-c.jpg)](https://www.linkedin.com/in/areeks/)
+[![MasterHead](https://zakorkuj.areeks.pl/images/java-vs-c.jpg)](https://www.linkedin.com/in/areeks/)
 
 <h1 align="center">Hi 👋, I'm Arkadiusz Kaźmierczak</h1>
 <h3 align="center">Application Developer</h3>
